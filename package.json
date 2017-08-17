@@ -1,0 +1,28 @@
+{
+  "name": "red-contrib-handson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoyuki-nakabayashi/node-red-contrib-handson.git"
+  },
+  "keywords": [
+    "node-red",
+    "handson"
+  ],
+  "node-red": {
+    "nodes": {
+      "tom-node": "node.js"
+    }
+  },
+  "author": "tomoyuki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tomoyuki-nakabayashi/node-red-contrib-handson/issues"
+  },
+  "homepage": "https://github.com/tomoyuki-nakabayashi/node-red-contrib-handson#readme"
+}
